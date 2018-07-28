@@ -11,6 +11,6 @@ You must have node & access to the internet to run this project.
 ### Installing & Running
 
 To run this project, clone or download this repository and within the root run the following commands.
-this commands are requried. 
+this commands are requried.</br>
 1-yarn</br>
 2-yarn start
