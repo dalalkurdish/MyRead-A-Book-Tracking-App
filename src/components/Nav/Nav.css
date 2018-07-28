@@ -7,7 +7,7 @@ nav {
     height: 50px;
     align-items: center;
     padding: 25px;
-    border-top: 7px solid #74B3CE;
+    border-top: 7px solid rgb(4, 71, 100);
     border-bottom: 1px solid rgba(0,0,0,.2);
 }
 
@@ -19,9 +19,9 @@ nav {
 
 .myreads-button {
     margin: 5px;
-    background-color: #74B3CE;
+    background-color: rgb(81, 174, 214);
     border: none;
-    color: #FCFCFC;
+    color: rgb(163, 163, 163);
     padding: 10px;
     text-align: center;
     text-decoration: none;
@@ -31,7 +31,7 @@ nav {
 
 .myreads-button:hover {
     background-color: rgba(0,0,0,0);
-    border: 3px solid #74B3CE;
-    color: #74B3CE;
+    border: 3px solid rgb(63, 152, 190);
+    color: rgb(83, 162, 196);
     padding: 7px;
 }
