@@ -10,32 +10,7 @@ You must have node & access to the internet to run this project.
 
 ### Installing & Running
 
-To run this project, clone or download this repository and within the root run the following commands. 
-
-```
-yarn
-```
-
-then
-
-```
-yarn start
-```
-
-
-## Live Demo
-
-A live demo is available at [https://my-reads-george-kemp.herokuapp.com/](https://my-reads-george-kemp.herokuapp.com/)
-
-## Future Enhancments
-
-Possible improvements on the current functionality and stability include
-* Improved UI
-* Rating System
-* Authentication
-* Share Links to Facebook, Twitter & Instagram
-* Test Coverage
-
-## Authors
-
-* [George Owen Kemp](http://www.georgekemp.com)
+To run this project, clone or download this repository and within the root run the following commands.
+this commands are requried. 
+1-yarn
+2-yarn start
